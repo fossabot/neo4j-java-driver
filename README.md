@@ -1,4 +1,6 @@
 # Neo4j Java Driver
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fneo4j-java-driver.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fneo4j-java-driver?ref=badge_shield)
+
 
 This repository holds the official Java driver for Neo4j.
 The API is designed to work against both single instance and clustered databases.
@@ -122,3 +124,7 @@ mvn clean install -DskipITs
 If you are building on windows, you will need to run the install with admin rights.
 This is because integration tests require admin privileges to install and start a service.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fneo4j-java-driver.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fneo4j-java-driver?ref=badge_large)
